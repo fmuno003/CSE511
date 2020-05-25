@@ -26,53 +26,54 @@ DROP TABLE IF EXISTS users;
 
 -- Table for Users
 CREATE TABLE users (
-    userid INT PRIMARY KEY,
+    userid INTEGER PRIMARY KEY,
     name text NOT NULL
 );
 
 -- Table for Movies
 CREATE TABLE movies (
-    movieid INT PRIMARY KEY,
-    title text
+    movieid INTEGER PRIMARY KEY,
+    title text NOT NULL
 );
 
 -- Table for Tag Info
 CREATE TABLE taginfo(
-    tagid INT PRIMARY KEY,
-    content text
+    tagid INTEGER PRIMARY KEY,
+    content text NOT NULL
 );
 
 -- Table for Genres
 CREATE TABLE genres(
-    genreid INT PRIMARY KEY,
-    name text 
+    genreid INTEGER PRIMARY KEY,
+    name text NOT NULL
 );
 
 -- Table for Ratings
 CREATE TABLE ratings(
-    userid INT,
-    movieid INT,
+    userid INTEGER,
+    movieid INTEGER,
+    PRIMARY KEY(userid, movieid),
+    rating NUMERIC CHECK(rating >= 0.0 and rating <= 5.0),
+    timestamp bigint NOT NULL,
     FOREIGN KEY(userid) REFERENCES users(userid),
-    FOREIGN KEY(movieid) REFERENCES movies(movieid),
-    rating DECIMAL CHECK(rating > 0.0 and rating <= 5.0),
-    timestamp bigint
+    FOREIGN KEY(movieid) REFERENCES movies(movieid)
 );
 
 -- Table for Tags
 CREATE TABLE tags(
-    userid INT,
-    movieid INT,
-    tagid INT PRIMARY KEY,
+    userid INTEGER,
+    movieid INTEGER,
+    tagid INTEGER,
+    timestamp bigint NOT NULL,
     FOREIGN KEY(userid) REFERENCES users(userid),
     FOREIGN KEY(movieid) REFERENCES movies(movieid),
-    FOREIGN KEY(tagid) REFERENCES taginfo(tagid),
-    timestamp bigint
+    FOREIGN KEY(tagid) REFERENCES taginfo(tagid)
 );
 
 -- Table for Having a Genre
 CREATE TABLE hasagenre(
-    movieid INT,
-    genreid INT,
+    movieid INTEGER,
+    genreid INTEGER,
     FOREIGN KEY(movieid) REFERENCES movies(movieid),
     FOREIGN KEY(genreid) REFERENCES genres(genreid)
 );
@@ -81,23 +82,16 @@ CREATE TABLE hasagenre(
 
 
 -- This will only be used for testing purposes only
-\copy users from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/users.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM users;
+\copy users from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/users.dat' DELIMITERS '%';
 
-\copy movies from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/movies.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM movies;
+\copy movies from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/movies.dat' DELIMITERS '%';
 
-\copy taginfo from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/taginfo.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM taginfo;
+\copy taginfo from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/taginfo.dat' DELIMITERS '%';
 
-\copy genres from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/genres.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM genres;
+\copy genres from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/genres.dat' DELIMITERS '%';
 
-\copy ratings from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/ratings.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM ratings;
+\copy ratings from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/ratings.dat' DELIMITERS '%';
 
-\copy tags from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/tags.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM tags;
+\copy tags from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/tags.dat' DELIMITERS '%';
 
-\copy hasagenre from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/hasagenre.dat' DELIMITER '%' CSV;
-SELECT COUNT(*) FROM hasagenre;
+\copy hasagenre from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/hasagenre.dat' DELIMITERS '%';

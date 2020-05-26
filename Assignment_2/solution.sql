@@ -20,6 +20,10 @@ DROP TABLE IF EXISTS users;
 
 DROP TABLE IF EXISTS query1;
 DROP TABLE IF EXISTS query2;
+DROP TABLE IF EXISTS query3;
+DROP TABLE IF EXISTS query4;
+DROP TABLE IF EXISTS query5;
+DROP TABLE IF EXISTS query6;
 
 -- Table for Users
 CREATE TABLE users (
@@ -92,6 +96,7 @@ CREATE TABLE hasagenre(
 
 --#################################################################################################
 -- Query 1
+-- Write a SQL query to return the total number of movies for each genre
 CREATE TABLE query1(name, moviecount) as
 SELECT genres.name, count(genres.name)
 FROM hasagenre
@@ -103,6 +108,7 @@ SELECT *
 FROM query1;
 
 -- Query 2
+-- Write a SQL query to return the average rating per genre
 CREATE TABLE query2(name, rating) as
 SELECT genres.name, avg(ratings.rating)
 FROM movies
@@ -115,15 +121,68 @@ SELECT *
 FROM query2;
 
 -- Query 3
+-- Write a SQL query to return the movies which have at least 10 ratings.
+CREATE TABLE query3(title, CountOfRatings) as
+SELECT movies.title, count(rating)
+FROM movies
+NATURAL JOIN ratings 
+GROUP BY movies.title
+HAVING COUNT(*) >= 10;
+
+SELECT *
+FROM query3;
 
 -- Query 4
+-- Write a SQL query to return all “Comedy” movies, including movieid and title.
+CREATE TABLE query4(movieid, title) as
+SELECT movieid, title
+FROM movies
+NATURAL JOIN genres
+NATURAL JOIN hasagenre
+WHERE genres.name = 'Comedy'
+GROUP BY movieid;
+
+SELECT *
+FROM query4;
 
 -- Query 5
+-- Write a SQL query to return the average rating per movie
+CREATE TABLE query5(title, average) as
+SELECT movies.title, avg(ratings.rating)
+FROM movies
+NATURAL JOIN ratings
+GROUP BY movies.title;
+
+SELECT *
+FROM query5;
 
 -- Query 6
+-- Write a SQL query to return the average rating for all “Comedy” movies.
+CREATE TABLE query6(average) as
+SELECT avg(ratings.rating)
+FROM movies
+NATURAL JOIN genres
+NATURAL JOIN ratings
+NATURAL JOIN hasagenre
+WHERE genres.name = 'Comedy'
+GROUP BY movieid;
+
+SELECT *
+FROM query6;
 
 -- Query 7
 
+
+SELECT *
+FROM query7;
+
 -- Query 8
 
+SELECT *
+FROM query8;
+
+
 -- Query 9
+
+SELECT *
+FROM query9;

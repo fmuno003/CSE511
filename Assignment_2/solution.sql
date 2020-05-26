@@ -1,5 +1,5 @@
 /***********************************************************************
-** File: Assignment 1: Create Movie Recommendation Database    
+** File: Assignment 2: SQL Query for Movie Recommendation   
 ** Name: Francisco Muñoz
 ** Date: 05/25/2020
 **************************
@@ -9,12 +9,6 @@
 ** --   --------   -------   ------------------------------------
 ** 1    05/25/2020 fmuno003  Initial Creation
 *********************************************************************/
--- PASSED / TEST CASE 1: Insert Normal Data.
--- PASSED / TEST CASE 2: Insert non-exist foreign key.
--- PASSED / TEST CASE 3: Insert duplicate rating.
--- PASSED / TEST CASE 4: Insert a hasagenre record that contains wrong genre id.
--- PASSED / TEST CASE 5: Insert a rating larger than 5.
-
 -- Checks to see if tables exist already or not. If they do, drop tables
 DROP TABLE IF EXISTS hasagenre;
 DROP TABLE IF EXISTS tags;
@@ -23,6 +17,9 @@ DROP TABLE IF EXISTS genres;
 DROP TABLE IF EXISTS taginfo;
 DROP TABLE IF EXISTS movies;
 DROP TABLE IF EXISTS users;
+
+DROP TABLE IF EXISTS query1;
+DROP TABLE IF EXISTS query2;
 
 -- Table for Users
 CREATE TABLE users (
@@ -78,9 +75,6 @@ CREATE TABLE hasagenre(
     FOREIGN KEY(genreid) REFERENCES genres(genreid)
 );
 
-
-
-
 -- This will only be used for testing purposes only
 \copy users from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/users.dat' DELIMITERS '%';
 
@@ -95,3 +89,35 @@ CREATE TABLE hasagenre(
 \copy tags from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/tags.dat' DELIMITERS '%';
 
 \copy hasagenre from 'C:/Users/Francisco/Desktop/CSE511 - DataProcessingAtScale/CSE511/Assignment_1/TestData/hasagenre.dat' DELIMITERS '%';
+
+--#################################################################################################
+-- Query 1
+CREATE TABLE query1(name, moviecount) as
+SELECT genres.name, count(genres.name)
+FROM hasagenre
+NATURAL JOIN genres
+NATURAL JOIN movies
+GROUP BY genres.name;
+
+SELECT *
+FROM query1;
+
+-- Query 2
+--CREATE TABLE query2 as
+
+--SELECT *
+--FROM query2;
+
+-- Query 3
+
+-- Query 4
+
+-- Query 5
+
+-- Query 6
+
+-- Query 7
+
+-- Query 8
+
+-- Query 9

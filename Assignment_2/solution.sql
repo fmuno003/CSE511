@@ -103,10 +103,16 @@ SELECT *
 FROM query1;
 
 -- Query 2
---CREATE TABLE query2 as
+CREATE TABLE query2(name, rating) as
+SELECT genres.name, avg(ratings.rating)
+FROM movies
+NATURAL JOIN genres
+NATURAL JOIN ratings
+NATURAL JOIN hasagenre
+GROUP BY genres.name;
 
---SELECT *
---FROM query2;
+SELECT *
+FROM query2;
 
 -- Query 3
 

@@ -9,11 +9,11 @@
 ** --   --------   -------   ------------------------------------
 ** 1    05/25/2020 fmuno003  Initial Creation
 *********************************************************************/
--- COMPLETE TEST CASE 1: Insert Normal Data.
--- TEST CASE 2: Insert non-exist foreign key.
--- TEST CASE 3: Insert duplicate rating.
--- TEST CASE 4: Insert a hasagenre record that contains wrong genre id.
--- TEST CASE 5: Insert a rating larger than 5.
+-- PASSED / TEST CASE 1: Insert Normal Data.
+-- PASSED / TEST CASE 2: Insert non-exist foreign key.
+-- PASSED / TEST CASE 3: Insert duplicate rating.
+-- PASSED / TEST CASE 4: Insert a hasagenre record that contains wrong genre id.
+-- PASSED / TEST CASE 5: Insert a rating larger than 5.
 
 -- Checks to see if tables exist already or not. If they do, drop tables
 DROP TABLE IF EXISTS hasagenre;

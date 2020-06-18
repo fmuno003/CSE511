@@ -1,0 +1,2 @@
+roundrobinratingspart1, 1, 355, 2.0
+rangeratingspart1, 1, 355, 2.0

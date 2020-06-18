@@ -1,0 +1,987 @@
+1_Toy Story (1995)_Animation|Childrens|Comedy
+2_Jumanji (1995)_Adventure|Childrens|Fantasy
+3_Grumpier Old Men (1995)_Comedy|Romance
+4_Waiting to Exhale (1995)_Comedy|Drama
+5_Father of the Bride Part II (1995)_Comedy
+6_Heat (1995)_Action|Crime|Thriller
+7_Sabrina (1995)_Comedy|Romance
+8_Tom and Huck (1995)_Adventure|Childrens
+9_Sudden Death (1995)_Action
+10_GoldenEye (1995)_Action|Adventure|Thriller
+11_American President, The (1995)_Comedy|Drama|Romance
+12_Dracula: Dead and Loving It (1995)_Comedy|Horror
+13_Balto (1995)_Animation|Childrens
+14_Nixon (1995)_Drama
+15_Cutthroat Island (1995)_Action|Adventure|Romance
+16_Casino (1995)_Drama|Thriller
+17_Sense and Sensibility (1995)_Drama|Romance
+18_Four Rooms (1995)_Thriller
+19_Ace Ventura: When Nature Calls (1995)_Comedy
+20_Money Train (1995)_Action
+21_Get Shorty (1995)_Action|Comedy|Drama
+22_Copycat (1995)_Crime|Drama|Thriller
+23_Assassins (1995)_Thriller
+24_Powder (1995)_Drama|Sci-Fi
+25_Leaving Las Vegas (1995)_Drama|Romance
+26_Othello (1995)_Drama
+27_Now and Then (1995)_Drama
+28_Persuasion (1995)_Romance
+29_City of Lost Children, The (1995)_Adventure|Sci-Fi
+30_Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)_Drama
+31_Dangerous Minds (1995)_Drama
+32_Twelve Monkeys (1995)_Drama|Sci-Fi
+33_Wings of Courage (1995)_Adventure|Romance
+34_Babe (1995)_Childrens|Comedy|Drama
+35_Carrington (1995)_Drama|Romance
+36_Dead Man Walking (1995)_Drama
+37_Across the Sea of Time (1995)_Documentary
+38_It Takes Two (1995)_Comedy
+39_Clueless (1995)_Comedy|Romance
+40_Cry, the Beloved Country (1995)_Drama
+41_Richard III (1995)_Drama|War
+42_Dead Presidents (1995)_Action|Crime|Drama
+43_Restoration (1995)_Drama
+44_Mortal Kombat (1995)_Action|Adventure
+45_To Die For (1995)_Comedy|Drama
+46_How to Make an American Quilt (1995)_Drama|Romance
+47_Seven (Se7en) (1995)_Crime|Thriller
+48_Pocahontas (1995)_Animation|Childrens|Musical|Romance
+49_When Night Is Falling (1995)_Drama|Romance
+50_Usual Suspects, The (1995)_Crime|Thriller
+51_Guardian Angel (1994)_Action|Drama|Thriller
+52_Mighty Aphrodite (1995)_Comedy
+53_Lamerica (1994)_Drama
+54_Big Green, The (1995)_Childrens|Comedy
+55_Georgia (1995)_Drama
+56_Kids of the Round Table (1995)_Adventure|Childrens|Fantasy
+57_Home for the Holidays (1995)_Drama
+58_Postino, Il (The Postman) (1994)_Drama|Romance
+59_Confessional, The (Le Confessionnal) (1995)_Drama|Mystery
+60_Indian in the Cupboard, The (1995)_Adventure|Childrens|Fantasy
+61_Eye for an Eye (1996)_Drama|Thriller
+62_Mr. Hollands Opus (1995)_Drama
+63_Dont Be a Menace to South Central While Drinking Your Juice in the Hood (1996)_Comedy
+64_Two if by Sea (1996)_Comedy|Romance
+65_Bio-Dome (1996)_Comedy
+66_Lawnmower Man 2: Beyond Cyberspace (1996)_Sci-Fi|Thriller
+67_Two Bits (1995)_Drama
+68_French Twist (Gazon maudit) (1995)_Comedy|Romance
+69_Friday (1995)_Comedy
+70_From Dusk Till Dawn (1996)_Action|Comedy|Crime|Horror|Thriller
+71_Fair Game (1995)_Action
+72_Kicking and Screaming (1995)_Comedy|Drama
+73_Miserables, Les (1995)_Drama|Musical
+74_Bed of Roses (1996)_Drama|Romance
+75_Big Bully (1996)_Comedy|Drama
+76_Screamers (1995)_Sci-Fi|Thriller
+77_Nico Icon (1995)_Documentary
+78_Crossing Guard, The (1995)_Drama
+79_Juror, The (1996)_Drama|Thriller
+80_White Balloon, The (Badkonake Sefid ) (1995)_Drama
+81_Things to Do in Denver when Youre Dead (1995)_Crime|Drama|Romance
+82_Antonias Line (Antonia) (1995)_Drama
+83_Once Upon a Time... When We Were Colored (1995)_Drama
+84_Last Summer in the Hamptons (1995)_Comedy|Drama
+85_Angels and Insects (1995)_Drama|Romance
+86_White Squall (1996)_Adventure|Drama
+87_Dunston Checks In (1996)_Childrens|Comedy
+88_Black Sheep (1996)_Comedy
+89_Nick of Time (1995)_Action|Thriller
+90_Journey of August King, The (1995)_Drama
+92_Mary Reilly (1996)_Drama|Thriller
+93_Vampire in Brooklyn (1995)_Comedy|Romance
+94_Beautiful Girls (1996)_Drama
+95_Broken Arrow (1996)_Action|Thriller
+96_In the Bleak Midwinter (1995)_Comedy
+97_Hate (Haine, La) (1995)_Drama
+98_Shopping (1994)_Action|Thriller
+99_Heidi Fleiss: Hollywood Madam (1995)_Documentary
+100_City Hall (1996)_Drama|Thriller
+101_Bottle Rocket (1996)_Comedy
+102_Mr. Wrong (1996)_Comedy
+103_Unforgettable (1996)_Thriller
+104_Happy Gilmore (1996)_Comedy
+105_Bridges of Madison County, The (1995)_Drama|Romance
+106_Nobody Loves Me (Keiner liebt mich) (1994)_Comedy|Drama
+107_Muppet Treasure Island (1996)_Adventure|Childrens|Comedy|Musical
+108_Catwalk (1995)_Documentary
+109_Headless Body in Topless Bar (1995)_Comedy
+110_Braveheart (1995)_Action|Drama|War
+111_Taxi Driver (1976)_Drama|Thriller
+112_Rumble in the Bronx (1995)_Action|Adventure|Crime
+113_Before and After (1996)_Drama|Mystery
+114_Margarets Museum (1995)_Drama
+115_Happiness Is in the Field (1995)_Comedy
+116_Anne Frank Remembered (1995)_Documentary
+117_Young Poisoners Handbook, The (1995)_Crime
+118_If Lucy Fell (1996)_Comedy|Romance
+119_Steal Big, Steal Little (1995)_Comedy
+120_Race the Sun (1996)_Drama
+121_Boys of St. Vincent, The (1993)_Drama
+122_Boomerang (1992)_Comedy|Romance
+123_Chungking Express (1994)_Drama|Mystery|Romance
+124_Star Maker, The (Uomo delle stelle, L) (1995)_Drama
+125_Flirting With Disaster (1996)_Comedy
+126_NeverEnding Story III, The (1994)_Adventure|Childrens|Fantasy
+127_Silence of the Palace, The (Saimt el Qusur) (1994)_Drama
+128_Jupiters Wife (1994)_Documentary
+129_Pie in the Sky (1995)_Comedy|Romance
+130_Angela (1995)_Drama
+131_Frankie Starlight (1995)_Drama|Romance
+132_Jade (1995)_Thriller
+133_Nueba Yol (1995)_Comedy|Drama
+134_Sonic Outlaws (1995)_Documentary
+135_Down Periscope (1996)_Comedy
+136_From the Journals of Jean Seberg (1995)_Documentary
+137_Man of the Year (1995)_Documentary
+138_Neon Bible, The (1995)_Drama
+139_Target (1995)_Action|Drama
+140_Up Close and Personal (1996)_Drama|Romance
+141_Birdcage, The (1996)_Comedy
+142_Shadows (Cienie) (1988)_Drama
+143_Gospa (1995)_Drama
+144_Brothers McMullen, The (1995)_Comedy
+145_Bad Boys (1995)_Action
+146_Amazing Panda Adventure, The (1995)_Adventure|Childrens
+147_Basketball Diaries, The (1995)_Drama
+148_Awfully Big Adventure, An (1995)_Drama
+149_Amateur (1994)_Crime|Drama|Thriller
+150_Apollo 13 (1995)_Drama
+151_Rob Roy (1995)_Drama|Romance|War
+152_Addiction, The (1995)_Horror
+153_Batman Forever (1995)_Action|Adventure|Comedy|Crime
+154_Belle de jour (1967)_Drama
+155_Beyond Rangoon (1995)_Drama|War
+156_Blue in the Face (1995)_Comedy
+157_Canadian Bacon (1994)_Comedy|War
+158_Casper (1995)_Adventure|Childrens
+159_Clockers (1995)_Drama
+160_Congo (1995)_Action|Adventure|Mystery|Sci-Fi
+161_Crimson Tide (1995)_Drama|Thriller|War
+162_Crumb (1994)_Documentary
+163_Desperado (1995)_Action|Romance|Thriller
+164_Devil in a Blue Dress (1995)_Crime|Film-Noir|Mystery|Thriller
+165_Die Hard: With a Vengeance (1995)_Action|Thriller
+166_Doom Generation, The (1995)_Comedy|Drama
+167_Feast of July (1995)_Drama
+168_First Knight (1995)_Action|Adventure|Drama|Romance
+169_Free Willy 2: The Adventure Home (1995)_Adventure|Childrens|Drama
+170_Hackers (1995)_Action|Crime|Thriller
+171_Jeffrey (1995)_Comedy
+172_Johnny Mnemonic (1995)_Action|Sci-Fi|Thriller
+173_Judge Dredd (1995)_Action|Adventure|Sci-Fi
+174_Jury Duty (1995)_Comedy
+175_Kids (1995)_Drama
+176_Living in Oblivion (1995)_Comedy
+177_Lord of Illusions (1995)_Horror
+178_Love & Human Remains (1993)_Comedy
+179_Mad Love (1995)_Drama|Romance
+180_Mallrats (1995)_Comedy
+181_Mighty Morphin Power Rangers: The Movie (1995)_Action|Childrens
+182_Moonlight and Valentino (1995)_Drama|Romance
+183_Mute Witness (1994)_Thriller
+184_Nadja (1994)_Drama
+185_Net, The (1995)_Sci-Fi|Thriller
+186_Nine Months (1995)_Comedy
+187_Party Girl (1995)_Comedy
+188_Prophecy, The (1995)_Horror
+189_Reckless (1995)_Comedy
+190_Safe (1995)_Thriller
+191_Scarlet Letter, The (1995)_Drama
+192_Show, The (1995)_Documentary
+193_Showgirls (1995)_Drama
+194_Smoke (1995)_Drama
+195_Something to Talk About (1995)_Comedy|Drama|Romance
+196_Species (1995)_Horror|Sci-Fi
+197_Stars Fell on Henrietta, The (1995)_Drama
+198_Strange Days (1995)_Action|Crime|Sci-Fi
+199_Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)_Drama|Musical
+200_Tie That Binds, The (1995)_Thriller
+201_Three Wishes (1995)_Drama
+202_Total Eclipse (1995)_Drama|Romance
+203_To Wong Foo, Thanks for Everything! Julie Newmar (1995)_Comedy
+204_Under Siege 2: Dark Territory (1995)_Action
+205_Unstrung Heroes (1995)_Comedy|Drama
+206_Unzipped (1995)_Documentary
+207_Walk in the Clouds, A (1995)_Drama|Romance
+208_Waterworld (1995)_Action|Adventure
+209_White Mans Burden (1995)_Drama
+210_Wild Bill (1995)_Western
+211_Browning Version, The (1994)_Drama
+212_Bushwhacked (1995)_Comedy
+213_Burnt By the Sun (Utomlyonnye solntsem) (1994)_Drama
+214_Before the Rain (Pred dozhdot) (1994)_Drama
+215_Before Sunrise (1995)_Drama|Romance
+216_Billy Madison (1995)_Comedy
+217_Babysitter, The (1995)_Drama|Thriller
+218_Boys on the Side (1995)_Comedy|Drama
+219_Cure, The (1995)_Drama
+220_Castle Freak (1995)_Horror
+222_Circle of Friends (1995)_Drama|Romance
+223_Clerks (1994)_Comedy
+224_Don Juan DeMarco (1995)_Comedy|Drama|Romance
+225_Disclosure (1994)_Drama|Thriller
+226_Dream Man (1995)_Thriller
+227_Drop Zone (1994)_Action
+228_Destiny Turns on the Radio (1995)_Comedy
+229_Death and the Maiden (1994)_Drama|Thriller
+230_Dolores Claiborne (1994)_Drama|Thriller
+231_Dumb & Dumber (1994)_Comedy
+232_Eat Drink Man Woman (1994)_Comedy|Drama
+233_Exotica (1994)_Drama
+234_Exit to Eden (1994)_Comedy
+235_Ed Wood (1994)_Comedy|Drama
+236_French Kiss (1995)_Comedy|Romance
+237_Forget Paris (1995)_Comedy|Romance
+238_Far From Home: The Adventures of Yellow Dog (1995)_Adventure|Childrens
+239_Goofy Movie, A (1995)_Animation|Childrens|Comedy|Romance
+240_Hideaway (1995)_Thriller
+241_Fluke (1995)_Childrens|Drama
+242_Farinelli: il castrato (1994)_Drama|Musical
+243_Gordy (1995)_Comedy
+244_Gumby: The Movie (1995)_Animation|Childrens
+245_Glass Shield, The (1994)_Crime|Drama
+246_Hoop Dreams (1994)_Documentary
+247_Heavenly Creatures (1994)_Drama|Fantasy|Romance|Thriller
+248_Houseguest (1994)_Comedy
+249_Immortal Beloved (1994)_Drama|Romance
+250_Heavyweights (1994)_Childrens|Comedy
+251_Hunted, The (1995)_Action
+252_I.Q. (1994)_Comedy|Romance
+253_Interview with the Vampire (1994)_Drama|Horror
+254_Jefferson in Paris (1995)_Drama
+255_Jerky Boys, The (1994)_Comedy
+256_Junior (1994)_Comedy|Sci-Fi
+257_Just Cause (1995)_Mystery|Thriller
+258_Kid in King Arthurs Court, A (1995)_Adventure|Childrens|Comedy|Fantasy|Romance
+259_Kiss of Death (1995)_Crime|Drama|Thriller
+260_Star Wars: Episode IV - A New Hope (1977)_Action|Adventure|Fantasy|Sci-Fi
+261_Little Women (1994)_Drama
+262_Little Princess, A (1995)_Childrens|Drama
+263_Ladybird Ladybird (1994)_Drama
+264_Enfer, L (1994)_Drama
+265_Like Water for Chocolate (Como agua para chocolate) (1992)_Drama|Romance
+266_Legends of the Fall (1994)_Drama|Romance|War|Western
+267_Major Payne (1994)_Comedy
+268_Little Odessa (1994)_Drama
+269_My Crazy Life (Mi vida loca) (1993)_Drama
+270_Love Affair (1994)_Drama|Romance
+271_Losing Isaiah (1995)_Drama
+272_Madness of King George, The (1994)_Drama
+273_Mary Shelleys Frankenstein (1994)_Drama|Horror
+274_Man of the House (1995)_Comedy
+275_Mixed Nuts (1994)_Comedy
+276_Milk Money (1994)_Comedy|Romance
+277_Miracle on 34th Street (1994)_Drama
+278_Miami Rhapsody (1995)_Comedy
+279_My Family (1995)_Drama
+280_Murder in the First (1995)_Drama|Thriller
+281_Nobodys Fool (1994)_Drama
+282_Nell (1994)_Drama
+283_New Jersey Drive (1995)_Crime|Drama
+284_New York Cop (1996)_Action|Crime
+285_Beyond Bedlam (1993)_Drama|Horror
+286_Nemesis 2: Nebula (1995)_Action|Sci-Fi|Thriller
+287_Nina Takes a Lover (1994)_Comedy|Romance
+288_Natural Born Killers (1994)_Action|Thriller
+289_Only You (1994)_Comedy|Romance
+290_Once Were Warriors (1994)_Crime|Drama
+291_Poison Ivy II (1995)_Thriller
+292_Outbreak (1995)_Action|Drama|Thriller
+293_Professional, The (a.k.a. Leon: The Professional) (1994)_Crime|Drama|Romance|Thriller
+294_Perez Family, The (1995)_Comedy|Romance
+295_Pyromaniacs Love Story, A (1995)_Comedy|Romance
+296_Pulp Fiction (1994)_Crime|Drama
+297_Panther (1995)_Drama
+298_Pushing Hands (1992)_Comedy
+299_Priest (1994)_Drama
+300_Quiz Show (1994)_Drama
+301_Picture Bride (1995)_Drama|Romance
+302_Queen Margot (La Reine Margot) (1994)_Drama|Romance
+303_Quick and the Dead, The (1995)_Action|Adventure|Western
+304_Roommates (1995)_Comedy|Drama
+305_Ready to Wear (Pret-A-Porter) (1994)_Comedy
+306_Three Colors: Red (1994)_Drama
+307_Three Colors: Blue (1993)_Drama
+308_Three Colors: White (1994)_Drama
+309_Red Firecracker, Green Firecracker (1994)_Drama
+310_Rent-a-Kid (1995)_Comedy
+311_Relative Fear (1994)_Horror|Thriller
+312_Stuart Saves His Family (1995)_Comedy
+313_Swan Princess, The (1994)_Animation|Childrens
+314_Secret of Roan Inish, The (1994)_Drama
+315_Specialist, The (1994)_Action
+316_Stargate (1994)_Action|Adventure|Sci-Fi
+317_Santa Clause, The (1994)_Childrens|Comedy|Fantasy
+318_Shawshank Redemption, The (1994)_Drama
+319_Shallow Grave (1994)_Thriller
+320_Suture (1993)_Film-Noir|Thriller
+321_Strawberry and Chocolate (Fresa y chocolate) (1993)_Drama
+322_Swimming with Sharks (1995)_Comedy|Drama
+324_Sum of Us, The (1994)_Comedy
+325_National Lampoons Senior Trip (1995)_Comedy
+326_To Live (Huozhe) (1994)_Drama
+327_Tank Girl (1995)_Action|Comedy|Musical|Sci-Fi
+328_Tales From the Crypt Presents: Demon Knight (1995)_Horror
+329_Star Trek: Generations (1994)_Action|Adventure|Sci-Fi
+330_Tales from the Hood (1995)_Comedy|Horror
+331_Tom & Viv (1994)_Drama
+332_Village of the Damned (1995)_Horror|Sci-Fi
+333_Tommy Boy (1995)_Comedy
+334_Vanya on 42nd Street (1994)_Drama
+335_Underneath, The (1995)_Mystery|Thriller
+336_Walking Dead, The (1995)_Drama|War
+337_Whats Eating Gilbert Grape (1993)_Drama
+338_Virtuosity (1995)_Sci-Fi|Thriller
+339_While You Were Sleeping (1995)_Comedy|Romance
+340_War, The (1994)_Adventure|Drama
+341_Double Happiness (1994)_Drama
+342_Muriels Wedding (1994)_Comedy|Romance
+343_Baby-Sitters Club, The (1995)_Childrens
+344_Ace Ventura: Pet Detective (1994)_Comedy
+345_Adventures of Priscilla, Queen of the Desert, The (1994)_Comedy|Drama
+346_Backbeat (1993)_Drama|Musical
+347_Bitter Moon (1992)_Drama
+348_Bullets Over Broadway (1994)_Comedy
+349_Clear and Present Danger (1994)_Action|Adventure|Thriller
+350_Client, The (1994)_Drama|Mystery|Thriller
+351_Corrina, Corrina (1994)_Comedy|Drama|Romance
+352_Crooklyn (1994)_Comedy
+353_Crow, The (1994)_Action|Romance|Thriller
+354_Cobb (1994)_Drama
+355_Flintstones, The (1994)_Childrens|Comedy
+356_Forrest Gump (1994)_Comedy|Romance|War
+357_Four Weddings and a Funeral (1994)_Comedy|Romance
+358_Higher Learning (1995)_Drama
+359_I Like It Like That (1994)_Comedy|Drama|Romance
+360_I Love Trouble (1994)_Action|Comedy
+361_It Could Happen to You (1994)_Drama|Romance
+362_Jungle Book, The (1994)_Adventure|Childrens|Romance
+363_Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder) (1993)_Documentary
+364_Lion King, The (1994)_Animation|Childrens|Musical
+365_Little Buddha (1993)_Drama
+366_Wes Cravens New Nightmare (1994)_Horror
+367_Mask, The (1994)_Comedy|Crime|Fantasy
+368_Maverick (1994)_Action|Comedy|Western
+369_Mrs. Parker and the Vicious Circle (1994)_Drama
+370_Naked Gun 33 1/3: The Final Insult (1994)_Comedy
+371_Paper, The (1994)_Comedy|Drama
+372_Reality Bites (1994)_Comedy|Drama
+373_Red Rock West (1992)_Thriller
+374_Richie Rich (1994)_Childrens|Comedy
+375_Safe Passage (1994)_Drama
+376_River Wild, The (1994)_Action|Thriller
+377_Speed (1994)_Action|Romance|Thriller
+378_Speechless (1994)_Comedy|Romance
+379_Timecop (1994)_Action|Sci-Fi
+380_True Lies (1994)_Action|Adventure|Comedy|Romance
+381_When a Man Loves a Woman (1994)_Drama
+382_Wolf (1994)_Drama|Horror
+383_Wyatt Earp (1994)_Western
+384_Bad Company (1995)_Action
+385_Man of No Importance, A (1994)_Drama
+386_S.F.W. (1994)_Drama
+387_Low Down Dirty Shame, A (1994)_Action|Comedy
+388_Boys Life (1995)_Drama
+389_Colonel Chabert, Le (1994)_Drama|Romance|War
+390_Faster Pussycat! Kill! Kill! (1965)_Action|Comedy|Drama
+391_Jasons Lyric (1994)_Crime|Drama
+392_Secret Adventures of Tom Thumb, The (1993)_Adventure|Childrens
+393_Street Fighter (1994)_Action
+394_Coldblooded (1995)_Action
+395_Desert Winds (1995)_Drama
+396_Fall Time (1995)_Drama
+397_Fear, The (1995)_Horror
+398_Frank and Ollie (1995)_Documentary
+399_Girl in the Cadillac (1995)_Drama
+400_Homage (1995)_Drama
+401_Mirage (1995)_Action|Thriller
+402_Open Season (1996)_Comedy
+403_Two Crimes (1995)_Comedy|Crime|Drama
+404_Brother Minister: The Assassination of Malcolm X (1994)_Documentary
+405_Highlander III: The Sorcerer (1994)_Action|Sci-Fi
+406_Federal Hill (1994)_Drama
+407_In the Mouth of Madness (1995)_Horror|Thriller
+408_8 Seconds (1994)_Drama
+409_Above the Rim (1994)_Drama
+410_Addams Family Values (1993)_Comedy
+411_You So Crazy (1994)_Comedy
+412_Age of Innocence, The (1993)_Drama
+413_Airheads (1994)_Comedy
+414_Air Up There, The (1994)_Comedy
+415_Another Stakeout (1993)_Comedy|Thriller
+416_Bad Girls (1994)_Western
+417_Barcelona (1994)_Comedy|Romance
+418_Being Human (1993)_Drama
+419_Beverly Hillbillies, The (1993)_Comedy
+420_Beverly Hills Cop III (1994)_Action|Comedy
+421_Black Beauty (1994)_Adventure|Childrens
+422_Blink (1994)_Thriller
+423_Blown Away (1994)_Action|Thriller
+424_Blue Chips (1994)_Drama
+425_Blue Sky (1994)_Drama|Romance
+426_Body Snatchers (1993)_Horror|Sci-Fi|Thriller
+427_Boxing Helena (1993)_Mystery|Romance|Thriller
+428_Bronx Tale, A (1993)_Drama
+429_Cabin Boy (1994)_Comedy
+430_Calendar Girl (1993)_Drama
+431_Carlitos Way (1993)_Crime|Drama
+432_City Slickers II: The Legend of Curlys Gold (1994)_Comedy|Western
+433_Clean Slate (1994)_Comedy
+434_Cliffhanger (1993)_Action|Adventure|Crime
+435_Coneheads (1993)_Comedy|Sci-Fi
+436_Color of Night (1994)_Drama|Thriller
+437_Cops and Robbersons (1994)_Comedy
+438_Cowboy Way, The (1994)_Action|Comedy
+439_Dangerous Game (1993)_Drama
+440_Dave (1993)_Comedy|Romance
+441_Dazed and Confused (1993)_Comedy
+442_Demolition Man (1993)_Action|Sci-Fi
+443_Endless Summer 2, The (1994)_Documentary
+444_Even Cowgirls Get the Blues (1993)_Comedy|Romance
+445_Fatal Instinct (1993)_Comedy
+446_Farewell My Concubine (1993)_Drama|Romance
+447_Favor, The (1994)_Comedy|Romance
+448_Fearless (1993)_Drama
+449_Fear of a Black Hat (1993)_Comedy
+450_With Honors (1994)_Comedy|Drama
+451_Flesh and Bone (1993)_Drama|Mystery|Romance
+452_Widows Peak (1994)_Drama
+453_For Love or Money (1993)_Comedy
+454_Firm, The (1993)_Drama|Thriller
+455_Free Willy (1993)_Adventure|Childrens|Drama
+456_Fresh (1994)_Drama
+457_Fugitive, The (1993)_Action|Thriller
+458_Geronimo: An American Legend (1993)_Drama|Western
+459_Getaway, The (1994)_Action
+460_Getting Even with Dad (1994)_Comedy
+461_Go Fish (1994)_Drama|Romance
+462_Good Man in Africa, A (1994)_Action|Adventure
+463_Guilty as Sin (1993)_Crime|Drama|Thriller
+464_Hard Target (1993)_Action|Adventure|Crime|Thriller
+465_Heaven & Earth (1993)_Action|Drama|War
+466_Hot Shots! Part Deux (1993)_Action|Comedy|War
+467_Live Nude Girls (1995)_Comedy
+468_Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)_Comedy|Romance
+469_House of the Spirits, The (1993)_Drama|Romance
+470_House Party 3 (1994)_Comedy
+471_Hudsucker Proxy, The (1994)_Comedy|Romance
+472_Ill Do Anything (1994)_Comedy|Drama
+473_In the Army Now (1994)_Comedy|War
+474_In the Line of Fire (1993)_Action|Thriller
+475_In the Name of the Father (1993)_Drama
+476_Inkwell, The (1994)_Comedy|Drama
+477_Whats Love Got to Do with It? (1993)_Drama
+478_Jimmy Hollywood (1994)_Comedy
+479_Judgment Night (1993)_Action
+480_Jurassic Park (1993)_Action|Adventure|Sci-Fi
+481_Kalifornia (1993)_Drama|Thriller
+482_Killing Zoe (1994)_Thriller
+483_King of the Hill (1993)_Drama
+484_Lassie (1994)_Adventure|Childrens
+485_Last Action Hero (1993)_Action|Comedy
+486_Life with Mikey (1993)_Comedy
+487_Lightning Jack (1994)_Comedy|Western
+488_M. Butterfly (1993)_Drama
+489_Made in America (1993)_Comedy
+490_Malice (1993)_Thriller
+491_Man Without a Face, The (1993)_Drama
+492_Manhattan Murder Mystery (1993)_Comedy|Mystery
+493_Menace II Society (1993)_Action|Crime|Drama
+494_Executive Decision (1996)_Action|Thriller
+495_In the Realm of the Senses (Ai no corrida) (1976)_Drama
+496_What Happened Was... (1994)_Comedy|Drama|Romance
+497_Much Ado About Nothing (1993)_Comedy|Romance
+498_Mr. Jones (1993)_Drama|Romance
+499_Mr. Wonderful (1993)_Comedy|Romance
+500_Mrs. Doubtfire (1993)_Comedy
+501_Naked (1993)_Drama
+502_Next Karate Kid, The (1994)_Action|Childrens
+503_New Age, The (1994)_Drama
+504_No Escape (1994)_Action|Sci-Fi
+505_North (1994)_Comedy
+506_Orlando (1993)_Drama
+507_Perfect World, A (1993)_Action|Drama
+508_Philadelphia (1993)_Drama
+509_Piano, The (1993)_Drama|Romance
+510_Poetic Justice (1993)_Drama
+511_Program, The (1993)_Action|Drama
+512_Robert A. Heinleins The Puppet Masters (1994)_Horror|Sci-Fi
+513_Radioland Murders (1994)_Comedy|Mystery|Romance
+514_Ref, The (1994)_Comedy
+515_Remains of the Day, The (1993)_Drama
+516_Renaissance Man (1994)_Comedy|Drama|War
+517_Rising Sun (1993)_Action|Drama|Mystery
+518_Road to Wellville, The (1994)_Comedy
+519_Robocop 3 (1993)_Sci-Fi|Thriller
+520_Robin Hood: Men in Tights (1993)_Comedy
+521_Romeo Is Bleeding (1993)_Crime|Thriller
+522_Romper Stomper (1992)_Action|Drama
+523_Ruby in Paradise (1993)_Drama
+524_Rudy (1993)_Drama
+525_Saint of Fort Washington, The (1993)_Drama
+526_Savage Nights (Nuits fauves, Les) (1992)_Drama
+527_Schindlers List (1993)_Drama|War
+528_Scout, The (1994)_Drama
+529_Searching for Bobby Fischer (1993)_Drama
+530_Second Best (1994)_Drama
+531_Secret Garden, The (1993)_Childrens|Drama
+532_Serial Mom (1994)_Comedy|Crime|Horror
+533_Shadow, The (1994)_Action
+534_Shadowlands (1993)_Drama|Romance
+535_Short Cuts (1993)_Drama
+536_Simple Twist of Fate, A (1994)_Drama
+537_Sirens (1994)_Comedy|Drama
+538_Six Degrees of Separation (1993)_Drama
+539_Sleepless in Seattle (1993)_Comedy|Romance
+540_Sliver (1993)_Thriller
+541_Blade Runner (1982)_Film-Noir|Sci-Fi
+542_Son in Law (1993)_Comedy
+543_So I Married an Axe Murderer (1993)_Comedy|Romance|Thriller
+544_Striking Distance (1993)_Action
+545_Harlem (1993)_Drama
+546_Super Mario Bros. (1993)_Action|Adventure|Childrens|Sci-Fi
+547_Surviving the Game (1994)_Action|Adventure|Thriller
+548_Terminal Velocity (1994)_Action
+549_Thirty-Two Short Films About Glenn Gould (1993)_Documentary
+550_Threesome (1994)_Comedy|Romance
+551_Nightmare Before Christmas, The (1993)_Childrens|Comedy|Musical
+552_Three Musketeers, The (1993)_Action|Adventure|Comedy
+553_Tombstone (1993)_Western
+554_Trial by Jury (1994)_Thriller
+555_True Romance (1993)_Action|Crime|Romance
+556_War Room, The (1993)_Documentary
+557_Mamma Roma (1962)_Drama
+558_Pagemaster, The (1994)_Action|Adventure|Animation|Childrens|Fantasy
+559_Paris, France (1993)_Comedy
+560_Beans of Egypt, Maine, The (1994)_Drama
+561_Killer (Bulletproof Heart) (1994)_Thriller
+562_Welcome to the Dollhouse (1995)_Comedy|Drama
+563_Germinal (1993)_Drama
+564_Chasers (1994)_Comedy
+565_Cronos (1992)_Horror
+566_Naked in New York (1994)_Comedy|Romance
+567_Kika (1993)_Drama
+568_Bhaji on the Beach (1993)_Comedy|Drama
+569_Little Big League (1994)_Childrens|Comedy
+570_Slingshot, The (K1disbellan ) (1993)_Comedy|Drama
+571_Wedding Gift, The (1994)_Drama
+572_Foreign Student (1994)_Drama
+573_Ciao, Professore! (Io speriamo che me la cavo ) (1993)_Drama
+574_Spanking the Monkey (1994)_Comedy|Drama
+575_Little Rascals, The (1994)_Childrens|Comedy
+576_Fausto (1993)_Comedy
+577_Andre (1994)_Adventure|Childrens
+578_Hour of the Pig, The (1993)_Drama|Mystery
+579_Scorta, La (1993)_Thriller
+580_Princess Caraboo (1994)_Drama
+581_Celluloid Closet, The (1995)_Documentary
+582_Metisse (Cafe au Lait) (1993)_Comedy
+583_Dear Diary (Caro Diario) (1994)_Comedy|Drama
+584_I Dont Want to Talk About It (De eso no se habla) (1993)_Drama
+585_Brady Bunch Movie, The (1995)_Comedy
+586_Home Alone (1990)_Childrens|Comedy
+587_Ghost (1990)_Comedy|Romance|Thriller
+588_Aladdin (1992)_Animation|Childrens|Comedy|Musical
+589_Terminator 2: Judgment Day (1991)_Action|Sci-Fi|Thriller
+590_Dances with Wolves (1990)_Adventure|Drama|Western
+591_Tough and Deadly (1995)_Action|Drama|Thriller
+592_Batman (1989)_Action|Adventure|Crime|Drama
+593_Silence of the Lambs, The (1991)_Drama|Thriller
+594_Snow White and the Seven Dwarfs (1937)_Animation|Childrens|Musical
+595_Beauty and the Beast (1991)_Animation|Childrens|Musical
+596_Pinocchio (1940)_Animation|Childrens
+597_Pretty Woman (1990)_Comedy|Romance
+598_Window to Paris (1994)_Comedy
+599_Wild Bunch, The (1969)_Western
+600_Love and a .45 (1994)_Thriller
+601_Wooden Mans Bride, The (Wu Kui) (1994)_Drama
+602_Great Day in Harlem, A (1994)_Documentary
+603_Bye Bye, Love (1995)_Comedy
+604_Criminals (1996)_Documentary
+605_One Fine Day (1996)_Drama|Romance
+606_Candyman: Farewell to the Flesh (1995)_Horror
+607_Century (1993)_Drama
+608_Fargo (1996)_Crime|Drama|Thriller
+609_Homeward Bound II: Lost in San Francisco (1996)_Adventure|Childrens
+610_Heavy Metal (1981)_Action|Adventure|Animation|Horror|Sci-Fi
+611_Hellraiser: Bloodline (1996)_Action|Horror|Sci-Fi
+612_Pallbearer, The (1996)_Comedy
+613_Jane Eyre (1996)_Drama|Romance
+614_Loaded (1994)_Drama|Thriller
+615_Bread and Chocolate (Pane e cioccolata) (1973)_Drama
+616_Aristocats, The (1970)_Animation|Childrens
+617_Flower of My Secret, The (La Flor de Mi Secreto) (1995)_Drama
+618_Two Much (1996)_Comedy|Romance
+619_Ed (1996)_Comedy
+620_Scream of Stone (Schrei aus Stein) (1991)_Drama
+621_My Favorite Season (1993)_Drama
+623_Modern Affair, A (1995)_Romance
+624_Condition Red (1995)_Action|Drama|Thriller
+625_Asfour Stah (1990)_Drama
+626_Thin Line Between Love and Hate, A (1996)_Comedy
+627_Last Supper, The (1995)_Drama|Thriller
+628_Primal Fear (1996)_Drama|Thriller
+629_Rude (1995)_Drama
+630_Carried Away (1996)_Drama|Romance
+631_All Dogs Go to Heaven 2 (1996)_Animation|Childrens|Musical
+632_Land and Freedom (Tierra y libertad) (1995)_War
+633_Denise Calls Up (1995)_Comedy
+634_Theodore Rex (1995)_Comedy
+635_Family Thing, A (1996)_Comedy|Drama
+636_Frisk (1995)_Drama
+637_Sgt. Bilko (1996)_Comedy
+638_Jack and Sarah (1995)_Romance
+639_Girl 6 (1996)_Comedy
+640_Diabolique (1996)_Drama|Thriller
+641_Little Indian, Big City (Un indien dans la ville) (1994)_Comedy
+642_Roula (1995)_Drama
+643_Peanuts - Die Bank zahlt alles (1996)_Comedy
+644_Happy Weekend (1996)_Comedy
+645_Nelly & Monsieur Arnaud (1995)_Drama
+647_Courage Under Fire (1996)_Drama|War
+648_Mission: Impossible (1996)_Action|Adventure|Mystery
+649_Cold Fever (A koldum klaka) (1994)_Comedy|Drama
+650_Moll Flanders (1996)_Drama
+651_Superweib, Das (1996)_Comedy
+652_301, 302 (1995)_Mystery
+653_Dragonheart (1996)_Action|Adventure|Fantasy
+654_Und keiner weint mir nach (1996)_Drama|Romance
+655_Mutters Courage (1995)_Comedy
+656_Eddie (1996)_Comedy
+657_Yankee Zulu (1994)_Comedy|Drama
+658_Billys Holiday (1995)_Drama
+659_Purple Noon (1960)_Crime|Thriller
+660_August (1996)_Drama
+661_James and the Giant Peach (1996)_Animation|Childrens|Musical
+662_Fear (1996)_Thriller
+663_Kids in the Hall: Brain Candy (1996)_Comedy
+664_Faithful (1996)_Comedy
+665_Underground (1995)_War
+666_All Things Fair (1996)_Drama
+667_Bloodsport 2 (1995)_Action
+668_Pather Panchali (1955)_Drama
+669_Aparajito (1956)_Drama
+670_World of Apu, The (Apur Sansar) (1959)_Drama
+671_Mystery Science Theater 3000: The Movie (1996)_Comedy|Sci-Fi
+672_Tarantella (1995)_Drama
+673_Space Jam (1996)_Adventure|Animation|Childrens|Comedy|Fantasy
+674_Barbarella (1968)_Adventure|Sci-Fi
+675_Hostile Intentions (1994)_Action|Drama|Thriller
+676_They Bite (1996)_Drama
+678_Some Folks Call It a Sling Blade (1993)_Drama|Thriller
+679_Run of the Country, The (1995)_Drama
+680_Alphaville (1965)_Sci-Fi
+681_Clean Slate (Coup de Torchon) (1981)_Crime
+682_Tigrero: A Film That Was Never Made (1994)_Documentary|Drama
+683_Eye of Vichy, The (Oeil de Vichy, L) (1993)_Documentary
+684_Windows (1980)_Drama
+685_Its My Party (1995)_Drama
+687_Country Life (1994)_Drama|Romance
+688_Operation Dumbo Drop (1995)_Action|Adventure|Comedy|War
+690_Promise, The (Versprechen, Das) (1994)_Romance
+691_Mrs. Winterbourne (1996)_Comedy|Romance
+692_Solo (1996)_Action|Sci-Fi|Thriller
+693_Under the Domin Tree (Etz Hadomim Tafus) (1994)_Drama
+694_Substitute, The (1996)_Action
+695_True Crime (1995)_Mystery|Thriller
+696_Butterfly Kiss (1995)_Thriller
+697_Feeling Minnesota (1996)_Drama|Romance
+698_Delta of Venus (1994)_Drama
+699_To Cross the Rubicon (1991)_Drama
+700_Angus (1995)_Comedy
+701_Daens (1992)_Drama
+702_Faces (1968)_Drama
+703_Boys (1996)_Drama
+704_Quest, The (1996)_Action|Adventure
+705_Cosi (1996)_Comedy
+706_Sunset Park (1996)_Drama
+707_Mulholland Falls (1996)_Crime|Film-Noir|Thriller
+708_Truth About Cats & Dogs, The (1996)_Comedy|Romance
+709_Oliver & Company (1988)_Animation|Childrens
+710_Celtic Pride (1996)_Comedy
+711_Flipper (1996)_Adventure|Childrens
+712_Captives (1994)_Drama
+713_Of Love and Shadows (1994)_Drama
+714_Dead Man (1995)_Western
+715_Horseman on the Roof, The (Hussard sur le toit, Le) (1995)_Drama
+716_Switchblade Sisters (1975)_Crime
+717_Mouth to Mouth (Boca a boca) (1995)_Comedy
+718_Visitors, The (Les Visiteurs) (1993)_Comedy|Sci-Fi
+719_Multiplicity (1996)_Comedy
+720_Wallace & Gromit: The Best of Aardman Animation (1996)_Animation
+721_Halfmoon (Paul Bowles - Halbmond) (1995)_Drama
+722_Haunted World of Edward D. Wood Jr., The (1995)_Documentary
+723_Two Friends (1986)_Drama
+724_Craft, The (1996)_Drama|Horror
+725_Great White Hype, The (1996)_Comedy
+726_Last Dance (1996)_Drama
+727_War Stories (1995)_Documentary
+728_Cold Comfort Farm (1995)_Comedy
+729_Institute Benjamenta, or This Dream People Call Human Life (1995)_Drama
+730_Low Life, The (1994)_Drama
+731_Heavens Prisoners (1996)_Mystery|Thriller
+732_Original Gangstas (1996)_Crime
+733_Rock, The (1996)_Action|Adventure|Thriller
+734_Getting Away With Murder (1996)_Comedy
+735_Cemetery Man (Dellamorte Dellamore) (1994)_Comedy|Horror
+736_Twister (1996)_Action|Adventure|Romance|Thriller
+737_Barb Wire (1996)_Action|Sci-Fi
+738_Garcu, Le (1995)_Drama
+739_Honigmond (1996)_Comedy
+741_Ghost in the Shell (Kokaku kidotai) (1995)_Animation|Sci-Fi
+742_Thinner (1996)_Horror|Thriller
+743_Spy Hard (1996)_Comedy
+744_Brothers in Trouble (1995)_Drama
+745_Close Shave, A (1995)_Animation|Comedy|Thriller
+746_Force of Evil (1948)_Film-Noir
+747_Stupids, The (1996)_Comedy
+748_Arrival, The (1996)_Action|Sci-Fi|Thriller
+749_Man from Down Under, The (1943)_Drama
+750_Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)_Sci-Fi|War
+751_Careful (1992)_Comedy
+752_Vermont Is For Lovers (1992)_Comedy|Romance
+753_Month by the Lake, A (1995)_Comedy|Drama
+754_Gold Diggers: The Secret of Bear Mountain (1995)_Adventure|Childrens
+755_Kim (1950)_Childrens|Drama
+756_Carmen Miranda: Bananas Is My Business (1994)_Documentary
+757_Ashes of Time (1994)_Drama
+758_Jar, The (Khomreh) (1992)_Drama
+759_Maya Lin: A Strong Clear Vision (1994)_Documentary
+760_Stalingrad (1993)_War
+761_Phantom, The (1996)_Adventure
+762_Striptease (1996)_Comedy|Crime
+763_Last of the High Kings, The (a.k.a. Summer Fling) (1996)_Drama
+764_Heavy (1995)_Drama|Romance
+765_Jack (1996)_Comedy|Drama
+766_I Shot Andy Warhol (1996)_Drama
+767_Grass Harp, The (1995)_Drama
+768_Someone Elses America (1995)_Drama
+769_Marlene Dietrich: Shadow and Light (1996)_Documentary
+770_Costa Brava (1946)_Drama
+771_Vie est belle, La (Life is Rosey) (1987)_Comedy|Drama
+772_Quartier Mozart (1992)_Comedy
+773_Touki Bouki (Journey of the Hyena) (1973)_Drama
+774_Wend Kuuni (Gods Gift) (1982)_Drama
+775_Spirits of the Dead (Tre Passi nel Delirio) (1968)_Horror
+776_Babyfever (1994)_Comedy|Drama
+777_Pharaohs Army (1995)_War
+778_Trainspotting (1996)_Drama
+779_Til There Was You (1997)_Drama|Romance
+780_Independence Day (ID4) (1996)_Action|Sci-Fi|War
+781_Stealing Beauty (1996)_Drama
+782_Fan, The (1996)_Thriller
+783_Hunchback of Notre Dame, The (1996)_Animation|Childrens|Musical
+784_Cable Guy, The (1996)_Comedy
+785_Kingpin (1996)_Comedy
+786_Eraser (1996)_Action|Thriller
+787_Gate of Heavenly Peace, The (1995)_Documentary
+788_Nutty Professor, The (1996)_Comedy|Fantasy|Romance|Sci-Fi
+789_I, Worst of All (Yo, la peor de todas) (1990)_Drama
+790_An Unforgettable Summer (1994)_Drama
+791_Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)_Documentary
+792_Hungarian Fairy Tale, A (1987)_Fantasy
+793_My Life and Times With Antonin Artaud (En compagnie dAntonin Artaud) (1993)_Drama
+794_Midnight Dancers (Sibak) (1994)_Comedy|Drama
+795_Somebody to Love (1994)_Drama
+796_Very Natural Thing, A (1974)_Drama
+797_Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)_Comedy
+798_Daylight (1996)_Action|Adventure|Thriller
+799_Frighteners, The (1996)_Comedy|Horror
+800_Lone Star (1996)_Drama|Mystery
+801_Harriet the Spy (1996)_Childrens|Comedy
+802_Phenomenon (1996)_Drama|Romance
+803_Walking and Talking (1996)_Romance
+804_Shes the One (1996)_Comedy|Romance
+805_Time to Kill, A (1996)_Drama
+806_American Buffalo (1996)_Drama
+807_Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)_Comedy|Romance
+808_Alaska (1996)_Adventure|Childrens
+809_Fled (1996)_Action|Adventure
+810_Kazaam (1996)_Childrens|Comedy|Fantasy
+811_Bewegte Mann, Der (1994)_Comedy
+812_Magic Hunter (1994)_Drama
+813_Larger Than Life (1996)_Comedy
+814_Boy Called Hate, A (1995)_Drama
+815_Power 98 (1995)_Action|Mystery|Thriller
+816_Two Deaths (1995)_Drama
+818_Very Brady Sequel, A (1996)_Comedy
+819_Stefano Quantestorie (1993)_Comedy|Drama
+820_Death in the Garden (Mort en ce jardin, La) (1956)_Drama
+821_Crude Oasis, The (1995)_Romance
+822_Hedd Wyn (1992)_Drama
+823_Collectionneuse, La (1967)_Drama
+824_Kaspar Hauser (1993)_Drama
+825_Echte Kerle (1996)_Comedy|Romance
+826_Diebinnen (1995)_Drama
+827_Convent, The (Convento, O) (1995)_Drama
+828_Adventures of Pinocchio, The (1996)_Adventure|Childrens
+829_Joes Apartment (1996)_Comedy|Musical
+830_First Wives Club, The (1996)_Comedy
+831_Stonewall (1995)_Drama
+832_Ransom (1996)_Drama|Thriller
+833_High School High (1996)_Comedy
+834_Phat Beach (1996)_Comedy
+835_Foxfire (1996)_Drama
+836_Chain Reaction (1996)_Action|Adventure|Thriller
+837_Matilda (1996)_Childrens|Comedy
+838_Emma (1996)_Comedy|Drama|Romance
+839_Crow: City of Angels, The (1996)_Action|Thriller
+840_House Arrest (1996)_Comedy
+841_Eyes Without a Face (1959)_Horror
+842_Tales from the Crypt Presents: Bordello of Blood (1996)_Horror
+843_Lotto Land (1995)_Drama
+844_Story of Xinghua, The (1993)_Drama
+845_Day the Sun Turned Cold, The (Tianguo niezi) (1994)_Drama
+846_Flirt (1995)_Drama
+847_Big Squeeze, The (1996)_Comedy|Drama
+848_Spitfire Grill, The (1996)_Drama
+849_Escape from L.A. (1996)_Action|Adventure|Sci-Fi|Thriller
+850_Cyclo (1995)_Crime|Drama
+851_Basquiat (1996)_Drama
+852_Tin Cup (1996)_Comedy|Romance
+853_Dingo (1992)_Drama
+854_Ballad of Narayama, The (Narayama Bushiko) (1958)_Drama
+855_Every Other Weekend (1990)_Drama
+856_Mille bolle blu (1993)_Comedy
+857_Crows and Sparrows (1949)_Drama
+858_Godfather, The (1972)_Action|Crime|Drama
+859_Hippie Revolution, The (1996)_Documentary
+860_Maybe, Maybe Not (Bewegte Mann, Der) (1994)_Comedy
+861_Supercop (1992)_Action|Thriller
+862_Manny & Lo (1996)_Drama
+863_Celestial Clockwork (1994)_Comedy
+864_Wife, The (1995)_Comedy|Drama
+865_Small Faces (1995)_Drama
+866_Bound (1996)_Crime|Drama|Romance|Thriller
+867_Carpool (1996)_Comedy|Crime
+868_Death in Brunswick (1991)_Comedy
+869_Kansas City (1996)_Crime
+870_Gone Fishin (1997)_Comedy
+871_Lovers Knot (1996)_Comedy
+872_Aiqing wansui (1994)_Drama
+873_Shadow of Angels (Schatten der Engel) (1976)_Drama
+874_Killer: A Journal of Murder (1995)_Crime|Drama
+875_Nothing to Lose (1994)_Drama
+876_Police Story 4: Project S (Chao ji ji hua) (1993)_Action
+877_Girls Town (1996)_Drama
+878_Bye-Bye (1995)_Drama
+879_Relic, The (1997)_Horror
+880_Island of Dr. Moreau, The (1996)_Sci-Fi|Thriller
+881_First Kid (1996)_Childrens|Comedy
+882_Trigger Effect, The (1996)_Drama|Thriller
+884_Sweet Nothing (1995)_Drama
+885_Bogus (1996)_Childrens|Drama|Fantasy
+886_Bulletproof (1996)_Action
+887_Talk of Angels (1998)_Drama
+888_Land Before Time III: The Time of the Great Giving (1995)_Animation|Childrens
+889_1-900 (1994)_Romance
+890_Baton Rouge (1988)_Thriller
+891_Halloween: The Curse of Michael Myers (1995)_Horror|Thriller
+892_Twelfth Night (1996)_Comedy|Drama|Romance
+893_Mother Night (1996)_Drama
+894_Liebelei (1933)_Romance
+895_Venice/Venice (1992)_Drama
+896_Wild Reeds (1994)_Drama
+897_For Whom the Bell Tolls (1943)_Adventure|War
+898_Philadelphia Story, The (1940)_Comedy|Romance
+899_Singin in the Rain (1952)_Musical|Romance
+900_American in Paris, An (1951)_Musical|Romance
+901_Funny Face (1957)_Comedy|Musical
+902_Breakfast at Tiffanys (1961)_Drama|Romance
+903_Vertigo (1958)_Mystery|Thriller
+904_Rear Window (1954)_Mystery|Thriller
+905_It Happened One Night (1934)_Comedy
+906_Gaslight (1944)_Mystery|Thriller
+907_Gay Divorcee, The (1934)_Comedy|Musical|Romance
+908_North by Northwest (1959)_Drama|Thriller
+909_Apartment, The (1960)_Comedy|Drama
+910_Some Like It Hot (1959)_Comedy|Crime
+911_Charade (1963)_Comedy|Mystery|Romance|Thriller
+912_Casablanca (1942)_Drama|Romance|War
+913_Maltese Falcon, The (1941)_Film-Noir|Mystery
+914_My Fair Lady (1964)_Musical|Romance
+915_Sabrina (1954)_Comedy|Romance
+916_Roman Holiday (1953)_Comedy|Romance
+917_Little Princess, The (1939)_Childrens|Drama
+918_Meet Me in St. Louis (1944)_Musical
+919_Wizard of Oz, The (1939)_Adventure|Childrens|Drama|Musical
+920_Gone with the Wind (1939)_Drama|Romance|War
+921_My Favorite Year (1982)_Comedy
+922_Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)_Film-Noir
+923_Citizen Kane (1941)_Drama
+924_2001: A Space Odyssey (1968)_Drama|Mystery|Sci-Fi|Thriller
+925_Golden Earrings (1947)_Adventure|Romance
+926_All About Eve (1950)_Drama
+927_Women, The (1939)_Comedy
+928_Rebecca (1940)_Romance|Thriller
+929_Foreign Correspondent (1940)_Thriller
+930_Notorious (1946)_Film-Noir|Romance|Thriller
+931_Spellbound (1945)_Mystery|Romance|Thriller
+932_Affair to Remember, An (1957)_Romance
+933_To Catch a Thief (1955)_Comedy|Romance|Thriller
+934_Father of the Bride (1950)_Comedy
+935_Band Wagon, The (1953)_Comedy|Musical
+936_Ninotchka (1939)_Comedy|Romance
+937_Love in the Afternoon (1957)_Comedy|Romance
+938_Gigi (1958)_Musical
+939_Reluctant Debutante, The (1958)_Comedy|Drama
+940_Adventures of Robin Hood, The (1938)_Action|Adventure
+941_Mark of Zorro, The (1940)_Adventure
+942_Laura (1944)_Crime|Film-Noir|Mystery
+943_Ghost and Mrs. Muir, The (1947)_Drama|Romance
+944_Lost Horizon (1937)_Drama
+945_Top Hat (1935)_Comedy|Musical|Romance
+946_To Be or Not to Be (1942)_Comedy|Drama|War
+947_My Man Godfrey (1936)_Comedy
+948_Giant (1956)_Drama
+949_East of Eden (1955)_Drama
+950_Thin Man, The (1934)_Mystery
+951_His Girl Friday (1940)_Comedy
+952_Around the World in 80 Days (1956)_Adventure|Comedy
+953_Its a Wonderful Life (1946)_Drama
+954_Mr. Smith Goes to Washington (1939)_Drama
+955_Bringing Up Baby (1938)_Comedy
+956_Penny Serenade (1941)_Drama|Romance
+957_Scarlet Letter, The (1926)_Drama
+958_Lady of Burlesque (1943)_Comedy|Mystery
+959_Of Human Bondage (1934)_Drama
+960_Angel on My Shoulder (1946)_Crime|Drama
+961_Little Lord Fauntleroy (1936)_Drama
+962_They Made Me a Criminal (1939)_Crime|Drama
+963_Inspector General, The (1949)_Musical
+964_Angel and the Badman (1947)_Western
+965_39 Steps, The (1935)_Thriller
+966_Walk in the Sun, A (1945)_Drama
+967_Outlaw, The (1943)_Western
+968_Night of the Living Dead (1968)_Horror|Sci-Fi
+969_African Queen, The (1951)_Action|Adventure|Romance|War
+970_Beat the Devil (1954)_Comedy|Drama
+971_Cat on a Hot Tin Roof (1958)_Drama
+972_Last Time I Saw Paris, The (1954)_Drama
+973_Meet John Doe (1941)_Drama
+974_Algiers (1938)_Drama|Romance
+975_Something to Sing About (1937)_Comedy|Musical
+976_Farewell to Arms, A (1932)_Romance|War
+977_Moonlight Murder (1936)_Mystery
+978_Blue Angel, The (Blaue Engel, Der) (1930)_Drama
+979_Nothing Personal (1995)_Drama|War
+980_In the Line of Duty 2 (1987)_Action
+981_Dangerous Ground (1997)_Drama
+982_Picnic (1955)_Drama
+983_Madagascar Skin (1995)_Romance
+984_Pompatus of Love, The (1996)_Comedy|Drama
+985_Small Wonders (1996)_Documentary
+986_Fly Away Home (1996)_Adventure|Childrens
+987_Bliss (1997)_Drama|Romance
+988_Grace of My Heart (1996)_Comedy|Drama
+989_Schlafes Bruder (Brother of Sleep) (1995)_Drama
+990_Maximum Risk (1996)_Action|Adventure|Thriller
+991_Michael Collins (1996)_Drama|War
+992_Rich Mans Wife, The (1996)_Thriller
+993_Infinity (1996)_Drama
+994_Big Night (1996)_Drama
+996_Last Man Standing (1996)_Action|Drama|Western
+997_Caught (1996)_Drama|Thriller
+998_Set It Off (1996)_Action|Crime
+999_2 Days in the Valley (1996)_Crime

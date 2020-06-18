@@ -48,16 +48,16 @@ if __name__ == '__main__':
         # Calling RangeQuery
         print "Performing Range Query"
         Assignment2.RangeQuery('ratings', 1.5, 3.5, con);
-        #Assignment2.RangeQuery('ratings',1,4,con);
-
+        Assignment2.RangeQuery('ratings',1,4,con);
+        
         # Calling PointQuery
         print "Performing Point Query"
         Assignment2.PointQuery('ratings', 4.5, con);
-        #Assignment2.PointQuery('ratings',2,con);
-        
+        Assignment2.PointQuery('ratings',2,con);
+        """
         # Deleting All Tables
         Assignment1.deleteTables('all', con);
-
+        """
         if con:
             con.close()
 

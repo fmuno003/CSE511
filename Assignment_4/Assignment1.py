@@ -11,10 +11,8 @@ DATABASE_NAME = 'dds_assignment'
 RANGE_TABLE_PREFIX = 'RangeRatingsPart'
 RROBIN_TABLE_PREFIX = 'RoundRobinRatingsPart'
 
-
-def getOpenConnection(user='postgres', password='1234', dbname='postgres'):
+def getOpenConnection(user='postgres', password='Cookies344!UCR', dbname='postgres'):
     return psycopg2.connect("dbname='" + dbname + "' user='" + user + "' host='localhost' password='" + password + "'")
-
 
 def createDB(dbname=DATABASE_NAME):
     """
@@ -40,7 +38,6 @@ def createDB(dbname=DATABASE_NAME):
     con.commit()
     con.close()
 
-
 def loadRatings(ratingstablename, ratingsfilepath, openconnection):
     cur = openconnection.cursor()
 
@@ -58,7 +55,6 @@ def loadRatings(ratingstablename, ratingsfilepath, openconnection):
 
     cur.close()
     openconnection.commit()
-
 
 def rangePartition(ratingstablename, numberofpartitions, openconnection):
     name = RANGE_TABLE_PREFIX
@@ -124,7 +120,6 @@ def rangePartition(ratingstablename, numberofpartitions, openconnection):
         if cursor:
             cursor.close()
 
-
 def roundRobinPartition(ratingstablename, numberofpartitions, openconnection):
     name = RROBIN_TABLE_PREFIX
     try:
@@ -171,7 +166,6 @@ def roundRobinPartition(ratingstablename, numberofpartitions, openconnection):
         if cursor:
             cursor.close()
 
-
 def deleteTables(ratingstablename, openconnection):
     try:
         cursor = openconnection.cursor()
@@ -197,7 +191,6 @@ def deleteTables(ratingstablename, openconnection):
         if cursor:
             cursor.close()
 
-
 def roundrobininsert(ratingstablename, userid, itemid, rating, openconnection):
     cur = openconnection.cursor()
 
@@ -210,7 +203,6 @@ def roundrobininsert(ratingstablename, userid, itemid, rating, openconnection):
     cur.execute('insert into rrobin_part{0} values ({1}, {2}, {3})'.format(count % N - 1, userid, itemid, rating))
 
     cur.close()
-
 
 def rangeinsert(ratingstablename, userid, itemid, rating, openconnection):
     cur = openconnection.cursor()
